@@ -77,7 +77,7 @@ Gframe.backbone.views.reels = Backbone.View.extend({
 		this is for keeping track of current total credit
 		while memory / register value, credit, is used for segment display
 	*/
-	'current_credits': 0,
+	'current_credits': 100,
 	/*
 		current bet amount
 	*/
