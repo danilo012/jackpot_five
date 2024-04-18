@@ -163,7 +163,7 @@ Gframe.backbone.models.bootStatus = Backbone.Model.extend({
 
 			Gframe.memory.new({
 				id: 'credits',
-				value: 0,
+				value: 100,
 				callbackEventName: 'updateSegment_credits'
 			});
 
